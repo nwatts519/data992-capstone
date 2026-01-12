@@ -1,12 +1,8 @@
 # Project Plan
+This folder details our project lifecycle and roadmap for the semester.
 
-Purpose
-- Document project goals, methodology, team roles, schedule, milestones, risks, and communication plan.
-
-Suggested contents
-- milestone-schedule.md — semester schedule and milestone definitions
-- roles.md — team roles and responsibilities
-- methodology.md — methods, evaluation criteria, performance targets
-- risk-register.md — anticipated issues and mitigation strategies
-
----
+## Methodology & Goals
+* **Goals:** Create a successful and reproducible anomaly detection model.
+* **Methodology:** [Describe the unsupervised or adaptive models to be used].
+* **Milestone Schedule:** [Internal deadlines and course milestones].
+* **Anticipated Issues:** [Potential blockers or data risks].
