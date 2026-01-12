@@ -1,14 +1,10 @@
 # Presentations
+Links and materials for our scheduled project presentations.
 
-Purpose
-- Store slides, speaker notes, and any recorded presentations.
+## Project Plan Presentation (Module 8)
+* **Link:** [Insert URL]
+* **Focus:** Scope, approach, and schedule.
 
-Contents
-- slides/ — PDF or PowerPoint versions of presentations
-- speaker-notes/ — text or markdown notes for presenters
-- recordings/ — links to recorded sessions (do not upload large files to repo; prefer external hosting and include links)
-
-Guidance
-- Produce a short slide deck (~10–15 slides) summarizing problem, approach, key results, and next steps.
-
----
+## Final Project Presentation (Module 12)
+* **Link:** [Insert URL]
+* **Focus:** Methodology, visualizations, insights, and artifact demo.
