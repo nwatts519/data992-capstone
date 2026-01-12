@@ -1,15 +1,7 @@
 # Data Analysis
+Technical documentation of the analysis process and findings.
 
-Purpose
-- Contain reproducible notebooks, scripts, and results from EDA, modeling, and statistical testing.
-
-Suggested contents
-- notebooks/ — well-documented notebooks with sections: Setup, EDA, Methods, Results, Interpretation
-- scripts/ — production-ready analysis scripts
-- environment.yml or requirements.txt — exact environment for reproduction
-- results/ — short summaries, tables, and evaluation metrics
-
-Reproducibility
-- Provide random seeds, versions, and a README explaining how to reproduce main results locally or in CI.
-
----
+## Analysis Summary
+* **Techniques:** [e.g., Unsupervised Learning / Adaptive Modeling].
+* **Implementation:** [Tools and Python libraries used].
+* **Key Insights:** [Summary of findings from the anomaly detection results].
